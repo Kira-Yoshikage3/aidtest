@@ -1,4 +1,1 @@
 .file
-*.a
-!lib.a
-build/
